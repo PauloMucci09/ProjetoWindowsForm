@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.Frminc.resources
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\bin\Debug\net10.0-windows\WindowsForminc.exe
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\bin\Debug\net10.0-windows\WindowsForminc.deps.json
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\bin\Debug\net10.0-windows\WindowsForminc.runtimeconfig.json
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\bin\Debug\net10.0-windows\WindowsForminc.dll
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\bin\Debug\net10.0-windows\WindowsForminc.pdb
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.dll
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\refint\WindowsForminc.dll
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.pdb
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\WindowsForminc.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\WindowsForminc\WindowsForminc\obj\Debug\net10.0-windows\ref\WindowsForminc.dll
